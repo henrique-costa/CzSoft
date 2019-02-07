@@ -5,5 +5,48 @@
 
 <h1>Projetos</h1>
 
+<form method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control" asp-for="SearchTerm" placeholder="Nome do Projeto..."/>
+            <span class="input-group-btn">
+                <button class="btn btn-default">
+                    <i class="glyphicon glyphicon-search"></i>
+                </button>
+            </span>
+        </div>
+    </div>
+</form>
 
-@Model.Message
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <td>ID</td>
+            <td>Nome</td>
+            <td>Tipo</td>
+            <td>Data de Criação</td>
+        </tr>
+    </thead>
+    @foreach (var project in Model.Projects)
+    {
+        
+        <tr>
+            <td>@project.Id</td>
+            <td>@project.Name</td>
+            <td>@project.Type</td>
+            <td>@project.CreationDate</td>
+            <td>
+                <a class="btn btn-lg" asp-page="./Detail" asp-route-projectId="@project.Id">
+                    <i class="glyphicon glyphicon-zoom-in"></i>
+                </a>
+                <a class="btn btn-lg" asp-page="./Edit" asp-route-projectId="@project.Id">
+                    <i class="glyphicon glyphicon-edit"></i>
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+<a asp-page="./Edit" class="btn btn-primary">Adicionar novo projeto</a>
+<div>
+    @Model.Message
+</div>

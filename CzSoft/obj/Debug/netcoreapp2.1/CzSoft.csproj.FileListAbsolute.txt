@@ -31,3 +31,10 @@ D:\Users\henri\Desktop\Projects\CzSoft\CzSoft\obj\Debug\netcoreapp2.1\CzSoft.dll
 D:\Users\henri\Desktop\Projects\CzSoft\CzSoft\obj\Debug\netcoreapp2.1\CzSoft.pdb
 D:\Users\henri\Desktop\Projects\CzSoft\CzSoft\obj\Debug\netcoreapp2.1\CzSoft.csproj.CopyComplete
 D:\Users\henri\Desktop\Projects\CzSoft\CzSoft\obj\Debug\netcoreapp2.1\Razor\Pages\Projects\List.g.cshtml.cs
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft\bin\Debug\netcoreapp2.1\CzSoft.Core.dll
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft\bin\Debug\netcoreapp2.1\CzSoft.Data.dll
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft\bin\Debug\netcoreapp2.1\CzSoft.Data.pdb
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft\bin\Debug\netcoreapp2.1\CzSoft.Core.pdb
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft\obj\Debug\netcoreapp2.1\Razor\Pages\Projects\Detail.g.cshtml.cs
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\ErrorPages\_NotFound.g.cshtml.cs
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft\obj\Debug\netcoreapp2.1\Razor\Pages\Projects\Edit.g.cshtml.cs

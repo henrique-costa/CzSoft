@@ -1,0 +1,8 @@
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Core\bin\Debug\netcoreapp2.1\CzSoft.Core.deps.json
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Core\bin\Debug\netcoreapp2.1\CzSoft.Core.dll
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Core\bin\Debug\netcoreapp2.1\CzSoft.Core.pdb
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Core\obj\Debug\netcoreapp2.1\CzSoft.Core.csproj.CoreCompileInputs.cache
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Core\obj\Debug\netcoreapp2.1\CzSoft.Core.AssemblyInfoInputs.cache
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Core\obj\Debug\netcoreapp2.1\CzSoft.Core.AssemblyInfo.cs
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Core\obj\Debug\netcoreapp2.1\CzSoft.Core.dll
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Core\obj\Debug\netcoreapp2.1\CzSoft.Core.pdb

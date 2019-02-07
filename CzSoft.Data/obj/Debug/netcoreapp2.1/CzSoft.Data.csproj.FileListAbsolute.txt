@@ -1,0 +1,14 @@
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Data\bin\Debug\netcoreapp2.1\CzSoft.Data.deps.json
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Data\bin\Debug\netcoreapp2.1\CzSoft.Data.dll
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Data\bin\Debug\netcoreapp2.1\CzSoft.Data.pdb
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Data\bin\Debug\netcoreapp2.1\CzSoft.Core.dll
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Data\bin\Debug\netcoreapp2.1\CzSoft.Core.pdb
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Data\obj\Debug\netcoreapp2.1\CzSoft.Data.csprojAssemblyReference.cache
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Data\obj\Debug\netcoreapp2.1\CzSoft.Data.csproj.CoreCompileInputs.cache
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Data\obj\Debug\netcoreapp2.1\CzSoft.Data.AssemblyInfoInputs.cache
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Data\obj\Debug\netcoreapp2.1\CzSoft.Data.AssemblyInfo.cs
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Data\obj\Debug\netcoreapp2.1\CzSoft.Data.csproj.CopyComplete
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Data\obj\Debug\netcoreapp2.1\CzSoft.Data.dll
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Data\obj\Debug\netcoreapp2.1\CzSoft.Data.pdb
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Data\bin\Debug\netcoreapp2.1\CzSoft.Data.runtimeconfig.json
+D:\Users\henri\Desktop\Projects\CzSoft\CzSoft.Data\bin\Debug\netcoreapp2.1\CzSoft.Data.runtimeconfig.dev.json

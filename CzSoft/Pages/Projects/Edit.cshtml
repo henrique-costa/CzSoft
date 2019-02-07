@@ -1,0 +1,34 @@
+﻿@page "{projectId:int?}"
+@model CzSoft.Pages.Projects.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Editando @Model.Project.Name</h2>
+
+
+<form method="post">
+    <input type="hidden" asp-for="Project.Id" />
+    <div class="form-group">
+        <label asp-for="Project.Name"></label>
+        <input asp-for="Project.Name" class="form-control" />
+        <span class="text-danger" asp-validation-for="Project.Name"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Project.Description"></label>
+        <input asp-for="Project.Description" class="form-control" />
+        <span class="text-danger" asp-validation-for="Project.Description"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Project.CreationDate"></label>
+        <input asp-for="Project.CreationDate" disabled class="form-control" />
+
+    </div>
+    <div class="form-group">
+        <label asp-for="Project.Type"></label>
+        <select class="form-control" asp-for="Project.Type" asp-items="Model.Types"></select>
+        <span class="text-danger" asp-validation-for="Project.Type"></span>
+    </div>
+    <button type="submit" class="btn btn-success" >Salvar</button>
+    <a class="btn btn-default" asp-page="./List">Voltar</a>
+</form>
